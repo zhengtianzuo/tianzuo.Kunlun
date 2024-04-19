@@ -1,9 +1,4 @@
-﻿<style>
- .md-toc{z-index:999;display: block; position: fixed; left: 4px; top: 4px; width: 200px; color:#cc8b13; font-size:12px; line-height:1.4;}
-</style>
-
-[中文](index.html)
-[English](index_en.html)
+﻿<h4 align="right"><strong><a href="README.md">简体中文</a></strong> | English</h4>
 
 <div align='center'>
     <img src="./common/logo_devs.png"/>
@@ -96,11 +91,7 @@
 <hr style="height:1px;border:none;border-top:1px groove #cc8b13;" />
 
 ### <img src="./common/com_btnWriter.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei">contact information </font>
-<style type="text/css">
-a.httplink:link {color: #000000}
-a.httplink:hover {color: #aa8b13}
-a.httplink:visited {color: #aa8b13}
-</style>
+
 <table>
   <tr>
     <td width="10%"><font color="#aa8b13" size=3 face="Microsoft YaHei">author</font></td>
