@@ -31,24 +31,27 @@
 <div align='center'>
     <img src="./images_en/cap000.png"/>
 </div>
-
+<br>
 <img src="./common/dev_btnWorkSpace.svg"/><font color="#cc8b13" size=5 face="Microsoft YaHei">workbench  </font>
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnInfo.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Project indicators </font><font color="#000000" size=3 face="Microsoft YaHei">Various indicators of the project are counted as part of the standard to measure the complexity of the project</font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnCompile.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Compile run </font><font color="#000000" size=3 face="Microsoft YaHei">Projects can be compiled manually or automatically</font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnAnalyse.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Static Analysis </font><font color="#000000" size=3 face="Microsoft YaHei">Scan the program code through lexical analysis, syntax analysis, control flow, data flow analysis and other technologies to check the consistency between the code and the design, the compliance and readability of the code to the standard, the correctness of the logical expression of the code, and the rationality of the code structure</font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnDAnalyse.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Dynamic Analysis </font><font color="#000000" size=3 face="Microsoft YaHei">Through memory detection, code coverage, hotspot function detection and other technologies, the code is deeply optimized according to the analysis results, so as to improve the code quality and enhance the robustness of the product</font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnTools.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Code Tools </font><font color="#000000" size=3 face="Microsoft YaHei">Automate code formatting and generate project documents</font>
-
+<br>
+<br>
 <img src="./common/dev_btnTools.svg"/><font color="#cc8b13" size=5 face="Microsoft YaHei">toolbox  </font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/dev_btnTools.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Various Tools </font><font color="#000000" size=3 face="Microsoft YaHei">Gadgets covering communication / graphics / design / conversion / generation / miscellaneous, etc</font>
-
+<br>
+<br>
 <img src="./common/dev_btnFileBag.svg"/><font color="#cc8b13" size=5 face="Microsoft YaHei">data bag  </font>
-
+<br>
 <font color="#cc8b13" size=5 face="Microsoft YaHei">     </font><img src="./common/com_btnCode.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei"> Code Base </font><font color="#000000" size=3 face="Microsoft YaHei">You can record the commonly used codes to the data bag and browse the copy at any time</font>
 
 # <img src="./common/com_btnAbout.svg"/><font color="#cc8b13" size=5 face="Microsoft YaHei">support </font>
@@ -130,7 +133,7 @@
     <img src="./common/allinone.png"/>
 </div>
 <br>
-<table>
+<table style='table-layout:fixed;'>
   <tr>
   <td align='center' width="10%"><font color="#000000" size=3 face="Microsoft YaHei">Add QQ Friends</font></td>
   <td align='center' width="10%"><font color="#000000" size=3 face="Microsoft YaHei">Add WeChat Friends</font></td>
