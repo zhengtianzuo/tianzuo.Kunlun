@@ -145,5 +145,7 @@
 
 ### <img src="./common/com_btnVision.svg"/><font color="#cc8b13" size=3 face="Microsoft YaHei">Our vision </font>
 <font color="#aa8b13" size=3 face="Microsoft YaHei">　　vision: </font><font color="#000000" size=3 face="Microsoft YaHei">Programmer's powerful local build tool</font>
+<br>
 <font color="#aa8b13" size=3 face="Microsoft YaHei">　　mission: </font><font color="#000000" size=3 face="Microsoft YaHei">Create value, achieve customers and serve the industry</font>
+<br>
 <font color="#aa8b13" size=3 face="Microsoft YaHei">　　sense of worth: </font><font color="#000000" size=3 face="Microsoft YaHei">Mining functions, integrators and accurate services</font>

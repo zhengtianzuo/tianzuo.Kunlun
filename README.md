@@ -145,5 +145,7 @@
 
 ### <img src="./common/com_btnVision.svg"/><font color="#cc8b13" size=3 face="微软雅黑">我们的愿景 </font>
 <font color="#aa8b13" size=3 face="微软雅黑">　　愿景: </font><font color="#000000" size=3 face="微软雅黑">程序员的超强本地构建工具</font>
+<br>
 <font color="#aa8b13" size=3 face="微软雅黑">　　使命: </font><font color="#000000" size=3 face="微软雅黑">创造价值，成就客户，服务行业</font>
+<br>
 <font color="#aa8b13" size=3 face="微软雅黑">　　价值观: </font><font color="#000000" size=3 face="微软雅黑">挖掘功能，集大成者，精准服务</font>
