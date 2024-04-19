@@ -33,25 +33,25 @@
 </div>
 <br>
 <img src="./common/dev_btnWorkSpace.svg"/><font color="#000000" size=5 face="微软雅黑">工作台  </font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnInfo.svg"/><font color="#000000" size=3 face="微软雅黑"> 项目指标 </font><font color="#000000" size=3 face="微软雅黑">统计出项目的各种指标, 作为衡量项目复杂度的部分标准</font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnCompile.svg"/><font color="#000000" size=3 face="微软雅黑"> 编译运行 </font><font color="#000000" size=3 face="微软雅黑">可以手动或自动化编译项目</font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnAnalyse.svg"/><font color="#000000" size=3 face="微软雅黑"> 静态检测 </font><font color="#000000" size=3 face="微软雅黑">通过词法分析、语法分析、控制流、数据流分析等技术对程序代码进行扫描，检查代码和设计的一致性，代码对标准的遵循、可读性，代码的逻辑表达的正确性，代码结构的合理性等方面</font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnDAnalyse.svg"/><font color="#000000" size=3 face="微软雅黑"> 动态检测 </font><font color="#000000" size=3 face="微软雅黑">通过内存检测、代码覆盖率、热点函数检测等技术根据分析结果对代码进行深度优化. 提升代码质量, 增强产品健壮性</font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnTools.svg"/><font color="#000000" size=3 face="微软雅黑"> 代码工具 </font><font color="#000000" size=3 face="微软雅黑">自动化代码格式化, 生成项目文档</font>
 <br>
 <br>
 <img src="./common/dev_btnTools.svg"/><font color="#000000" size=5 face="微软雅黑">工具箱  </font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/dev_btnTools.svg"/><font color="#000000" size=3 face="微软雅黑"> 各种工具 </font><font color="#000000" size=3 face="微软雅黑">涵盖通讯/图形/设计/转换/生成/杂项等各方面的小工具</font>
 <br>
 <br>
 <img src="./common/dev_btnFileBag.svg"/><font color="#000000" size=5 face="微软雅黑">资料袋  </font>
-<br>
+
 <font color="#000000" size=5 face="微软雅黑">     </font><img src="./common/com_btnCode.svg"/><font color="#000000" size=3 face="微软雅黑"> 代码库 </font><font color="#000000" size=3 face="微软雅黑">可记录平时常用的代码到资料袋, 随时查阅浏览拷贝</font>
 
 # <img src="./common/com_btnAbout.svg"/><font color="#cc8b13" size=5 face="微软雅黑">支持 </font>
