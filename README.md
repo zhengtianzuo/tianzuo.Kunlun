@@ -1,6 +1,6 @@
 ﻿<h4 align="right">简体中文 | <strong><a href="README_en.md">English</a></strong></h4>
 
-![](./common/logo_devs.png)
+![](./common/logo_devs.jpg)
 
 ### 天佐.昆仑镜
 
@@ -71,6 +71,6 @@
 
 ![](common/allinone.png)
 
-||||||
-|--|--|--|--|--|
-|加QQ好友|加微信好友|扫码提问|微信打赏|支付宝打赏|
+|||||
+|--|--|--|--|
+|加QQ好友|加微信好友|微信打赏|支付宝打赏|

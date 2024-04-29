@@ -1,6 +1,6 @@
 ﻿<h4 align="right"><strong><a href="README.md">简体中文</a></strong> | English</h4>
 
-![](./common/logo_devs.png)
+![](./common/logo_devs.jpg)
 
 ### tianzuo.Kunlun
 
@@ -71,6 +71,6 @@ Build a local build tool that is easy to run and integrates various code inspect
 
 ![](./common/allinone.png)
 
-||||||
-|--|--|--|--|--|
-|Add QQ Friends|Add WeChat Friends|Paid Questions|WeChat Sponsor|Alipay Sponsor|
+|||||
+|--|--|--|--|
+|Add QQ Friends|Add WeChat Friends|WeChat Sponsor|Alipay Sponsor|
